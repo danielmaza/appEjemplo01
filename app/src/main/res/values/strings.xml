@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agenda01</string>
+    <string name="hint_dni">Ingrese DNI</string>
+    <string name="hint_nombre">Ingrese Nombre</string>
+    <string name="hint_apellido">INgrese Apellido</string>
+    <string name="hint_email">Ingrese Correo Electrónico</string>
+    <string name="hint_direccion">Ingrese Dirección</string>
+    <string name="btn_guarda">Guardar Registro</string>
+
+    <string name="menu_nuevo">Nuevo Registro</string>
+</resources>
